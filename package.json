@@ -1,7 +1,7 @@
 {
-  "name": "logicflow-base",
+  "name": "step2",
   "version": "1.0.0",
-  "description": "",
+  "description": "节点",
   "main": "step1/index.js",
   "scripts": {
     "start": "parcel index.html --open",
